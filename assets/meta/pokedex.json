@@ -1,0 +1,107 @@
+[
+  {
+    "id": 25,
+    "name": "pikachu",
+    "heightM": 0.4,
+    "weightKg": 6,
+    "source": "https://pokeapi.co/api/v2/pokemon/25/"
+  },
+  {
+    "id": 95,
+    "name": "onix",
+    "heightM": 8.8,
+    "weightKg": 210,
+    "source": "https://pokeapi.co/api/v2/pokemon/95/"
+  },
+  {
+    "id": 121,
+    "name": "starmie",
+    "heightM": 1.1,
+    "weightKg": 80,
+    "source": "https://pokeapi.co/api/v2/pokemon/121/"
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "heightM": 0.8,
+    "weightKg": 30,
+    "source": "https://pokeapi.co/api/v2/pokemon/26/"
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "heightM": 1.2,
+    "weightKg": 18.6,
+    "source": "https://pokeapi.co/api/v2/pokemon/45/"
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "heightM": 1.2,
+    "weightKg": 9.5,
+    "source": "https://pokeapi.co/api/v2/pokemon/110/"
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "heightM": 1.5,
+    "weightKg": 48,
+    "source": "https://pokeapi.co/api/v2/pokemon/65/"
+  },
+  {
+    "id": 126,
+    "name": "magmar",
+    "heightM": 1.3,
+    "weightKg": 44.5,
+    "source": "https://pokeapi.co/api/v2/pokemon/126/"
+  },
+  {
+    "id": 112,
+    "name": "rhydon",
+    "heightM": 1.9,
+    "weightKg": 120,
+    "source": "https://pokeapi.co/api/v2/pokemon/112/"
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "heightM": 2.5,
+    "weightKg": 220,
+    "source": "https://pokeapi.co/api/v2/pokemon/131/"
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "heightM": 1.6,
+    "weightKg": 130,
+    "source": "https://pokeapi.co/api/v2/pokemon/68/"
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "heightM": 1.5,
+    "weightKg": 40.5,
+    "source": "https://pokeapi.co/api/v2/pokemon/94/"
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "heightM": 2.2,
+    "weightKg": 210,
+    "source": "https://pokeapi.co/api/v2/pokemon/149/"
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "heightM": 1.6,
+    "weightKg": 85.5,
+    "source": "https://pokeapi.co/api/v2/pokemon/9/"
+  },
+  {
+    "id": 128,
+    "name": "tauros",
+    "heightM": 1.4,
+    "weightKg": 88.4,
+    "source": "https://pokeapi.co/api/v2/pokemon/128/"
+  }
+]

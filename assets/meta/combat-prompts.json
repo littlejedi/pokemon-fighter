@@ -1,0 +1,139 @@
+{
+  "tool": "Built-in image_gen",
+  "status": "11-trainer roster; latest built-in image_gen request (cell 72) failed with backend network error; no sprites produced.",
+  "trainers": [
+    {
+      "id": 0,
+      "name": "Ash Ketchum",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Ash Ketchum. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 1,
+      "name": "Brock",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Brock. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 2,
+      "name": "Misty",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Misty. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 3,
+      "name": "Lt. Surge",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Lt. Surge. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 4,
+      "name": "Erika",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Erika. Preserve the referenced clothes and age. Keep her kimono and long pleated hakama faithfully, the leg extends from the garment during the kick."
+    },
+    {
+      "id": 5,
+      "name": "Koga",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Koga. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 6,
+      "name": "Sabrina",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Sabrina. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 7,
+      "name": "Blaine",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Blaine. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 8,
+      "name": "Giovanni",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Giovanni. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 13,
+      "name": "Blue Oak",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Blue Oak. Preserve the referenced clothes and age. "
+    },
+    {
+      "id": 14,
+      "name": "Professor Oak",
+      "prompt": "Create a production-ready transparent PNG SPRITE SHEET for a smooth high-resolution 2D fighting game, using the provided character image solely as the identity and costume reference. Exactly 12 separate full-body animation frames in a perfectly regular 4-column by 3-row grid, reading left to right then top to bottom. Wide landscape 4:3 canvas preferably 2048x1536. NO grid lines, NO numbers, NO labels, NO text, NO shadow, NO background color, genuinely transparent alpha background. Every frame is the SAME character with identical face, outfit, colors and body proportions. Clean Pokémon anime cel-shaded line art, crisp detailed anti-aliased contours, not pixel art. ALL twelve frames must be STRICT SIDE-VIEW FACING SCREEN RIGHT, nose, eyes, chest, feet and attacking limbs pointing RIGHT toward an opponent, never looking at the viewer. Use each cell's same scale and same floor baseline, leave 12% empty margin around the full body including outstretched hands and feet; do not let sprites overlap cell boundaries. Each is a physically different drawing with articulated shoulders, elbows, hips and knees, not a translated or rotated static pose. Sequence: cell 0 athletic guard stance knees bent, fists ready; cell 1 punch anticipation rear fist pulled back, shoulder and hip rotate; cell 2 punch extending halfway, front foot planted; cell 3 straight punch fully extended horizontally RIGHT at chest height with torso followthrough; cell 4 fist retracting elbow bends, torso coming back; cell 5 recovered balanced guard. Cell 6 kick anticipation weight shifts to supporting foot; cell 7 knee raised and bent, kicking leg chambered; cell 8 leg extending halfway to the RIGHT, hip opens; cell 9 full powerful horizontal side kick RIGHT, kicking leg fully extended at waist height, other leg planted and torso counterbalances; cell 10 kicking knee retracts bent; cell 11 recovered fighting guard. This is a sparring animation study without opponents, injuries or violence effects. No energy trails or effects: actual arms and legs must animate. Character is Professor Oak. Preserve the referenced clothes and age. "
+    }
+  ],
+  "partners": [
+    {
+      "group": 0,
+      "trainerIds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "ids": [
+        25,
+        95,
+        121,
+        26,
+        45
+      ],
+      "names": [
+        "Pikachu",
+        "Onix, coiled stone snake with head raised and rock body coiling behind",
+        "Starmie, double purple star with red gem, tilted obliquely toward right so its gem aims right",
+        "Raichu, Kanto orange form",
+        "Vileplume"
+      ],
+      "prompt": "Create an actual transparent PNG sprite atlas for a high resolution 2D Pokémon fighting game, 3 columns by 2 rows, equal cells. Put one full-body Pokémon in each occupied cell, row-major: cell 0: Pikachu; cell 1: Onix, coiled stone snake with head raised and rock body coiling behind; cell 2: Starmie, double purple star with red gem, tilted obliquely toward right so its gem aims right; cell 3: Raichu, Kanto orange form; cell 4: Vileplume. All remaining cells empty transparent. Every creature in strict side profile facing SCREEN RIGHT toward opponent, correct anatomy and colors, clean detailed anime cel shading, full body with generous margin, no text, grid, shadow, effects or scenery. Each creature fits its cell; game applies real-world size separately."
+    },
+    {
+      "group": 1,
+      "trainerIds": [
+        5,
+        6,
+        7,
+        8,
+        13
+      ],
+      "ids": [
+        110,
+        65,
+        126,
+        112,
+        9
+      ],
+      "names": [
+        "Weezing, Kanto purple two-headed form",
+        "Alakazam holding two spoons",
+        "Magmar",
+        "Rhydon",
+        "Blastoise with two shell water cannons"
+      ],
+      "prompt": "Create an actual transparent PNG sprite atlas for a high resolution 2D Pokémon fighting game, 3 columns by 2 rows, equal cells. Put one full-body Pokémon in each occupied cell, row-major: cell 0: Weezing, Kanto purple two-headed form; cell 1: Alakazam holding two spoons; cell 2: Magmar; cell 3: Rhydon; cell 4: Blastoise with two shell water cannons. All remaining cells empty transparent. Every creature in strict side profile facing SCREEN RIGHT toward opponent, correct anatomy and colors, clean detailed anime cel shading, full body with generous margin, no text, grid, shadow, effects or scenery. Each creature fits its cell; game applies real-world size separately."
+    },
+    {
+      "group": 2,
+      "trainerIds": [
+        14
+      ],
+      "ids": [
+        128
+      ],
+      "names": [
+        "Tauros, Kanto brown bull with three tails"
+      ],
+      "prompt": "Create an actual transparent PNG sprite atlas for a high resolution 2D Pokémon fighting game, 3 columns by 2 rows, equal cells. Put one full-body Pokémon in each occupied cell, row-major: cell 0: Tauros, Kanto brown bull with three tails. All remaining cells empty transparent. Every creature in strict side profile facing SCREEN RIGHT toward opponent, correct anatomy and colors, clean detailed anime cel shading, full body with generous margin, no text, grid, shadow, effects or scenery. Each creature fits its cell; game applies real-world size separately."
+    }
+  ],
+  "activeFighterIds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    13,
+    14
+  ]
+}

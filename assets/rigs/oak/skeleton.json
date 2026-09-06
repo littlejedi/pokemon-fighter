@@ -1,0 +1,131 @@
+{
+  "authoring": "src/adult-rig.js",
+  "height": 286,
+  "cell": {
+    "width": 420,
+    "height": 330,
+    "rootX": 160,
+    "baseline": 305
+  },
+  "clips": {
+    "idle": {
+      "duration": 1.2,
+      "loop": true
+    },
+    "walk": {
+      "duration": 0.72,
+      "loop": true
+    },
+    "punch": {
+      "duration": 0.48,
+      "contact": 0.18
+    },
+    "kick": {
+      "duration": 0.7,
+      "contact": 0.3
+    },
+    "guard": {
+      "duration": 1,
+      "loop": true
+    },
+    "hurt": {
+      "duration": 0.3
+    },
+    "jump": {
+      "duration": 0.6
+    },
+    "command": {
+      "duration": 0.65
+    },
+    "special": {
+      "duration": 0.65,
+      "contact": 0.24
+    }
+  },
+  "restPose": {
+    "hip": [
+      0,
+      -128
+    ],
+    "lean": 7,
+    "nearHand": [
+      45,
+      -203
+    ],
+    "farHand": [
+      27,
+      -232
+    ],
+    "nearFoot": [
+      38,
+      -12
+    ],
+    "farFoot": [
+      -38,
+      -12
+    ],
+    "shoe": 0,
+    "shoulder": [
+      7,
+      -206
+    ],
+    "bones": {
+      "nearArm": [
+        [
+          12,
+          -199
+        ],
+        [
+          43.34502556203117,
+          -155.02853911324286
+        ],
+        [
+          45,
+          -203
+        ]
+      ],
+      "farArm": [
+        [
+          -1,
+          -200
+        ],
+        [
+          52.27729063914029,
+          -191.19487069075225
+        ],
+        [
+          27,
+          -232
+        ]
+      ],
+      "nearLeg": [
+        [
+          7,
+          -128
+        ],
+        [
+          49.26865017333297,
+          -76.01575996011485
+        ],
+        [
+          38,
+          -12
+        ]
+      ],
+      "farLeg": [
+        [
+          -9,
+          -128
+        ],
+        [
+          3.3534398136165287,
+          -62.14870901211311
+        ],
+        [
+          -38,
+          -12
+        ]
+      ]
+    }
+  }
+}

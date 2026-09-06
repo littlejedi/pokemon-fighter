@@ -1,0 +1,272 @@
+[
+  {
+    "path": "assets/trainers/0.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/ash.png",
+    "kind": "trainer",
+    "id": 0
+  },
+  {
+    "path": "assets/trainers/0_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/ash_2.png",
+    "kind": "trainer",
+    "id": 0
+  },
+  {
+    "path": "assets/pokemon/25.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "kind": "pokemon",
+    "id": 25
+  },
+  {
+    "path": "assets/trainers/1.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/brock.png",
+    "kind": "trainer",
+    "id": 1
+  },
+  {
+    "path": "assets/trainers/1_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/brock_2.png",
+    "kind": "trainer",
+    "id": 1
+  },
+  {
+    "path": "assets/pokemon/95.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "kind": "pokemon",
+    "id": 95
+  },
+  {
+    "path": "assets/trainers/2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/misty.png",
+    "kind": "trainer",
+    "id": 2
+  },
+  {
+    "path": "assets/trainers/2_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/misty_2.png",
+    "kind": "trainer",
+    "id": 2
+  },
+  {
+    "path": "assets/pokemon/121.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "kind": "pokemon",
+    "id": 121
+  },
+  {
+    "path": "assets/trainers/3.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lt_surge.png",
+    "kind": "trainer",
+    "id": 3
+  },
+  {
+    "path": "assets/trainers/3_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lt_surge_2.png",
+    "kind": "trainer",
+    "id": 3
+  },
+  {
+    "path": "assets/pokemon/26.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "kind": "pokemon",
+    "id": 26
+  },
+  {
+    "path": "assets/trainers/4.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/erika.png",
+    "kind": "trainer",
+    "id": 4
+  },
+  {
+    "path": "assets/trainers/4_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/erika_2.png",
+    "kind": "trainer",
+    "id": 4
+  },
+  {
+    "path": "assets/pokemon/45.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "kind": "pokemon",
+    "id": 45
+  },
+  {
+    "path": "assets/trainers/5.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/koga.png",
+    "kind": "trainer",
+    "id": 5
+  },
+  {
+    "path": "assets/trainers/5_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/koga_2.png",
+    "kind": "trainer",
+    "id": 5
+  },
+  {
+    "path": "assets/pokemon/110.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "kind": "pokemon",
+    "id": 110
+  },
+  {
+    "path": "assets/trainers/6.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/sabrina.png",
+    "kind": "trainer",
+    "id": 6
+  },
+  {
+    "path": "assets/trainers/6_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/sabrina_2.png",
+    "kind": "trainer",
+    "id": 6
+  },
+  {
+    "path": "assets/pokemon/65.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "kind": "pokemon",
+    "id": 65
+  },
+  {
+    "path": "assets/trainers/7.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/blaine.png",
+    "kind": "trainer",
+    "id": 7
+  },
+  {
+    "path": "assets/trainers/7_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/blaine_2.png",
+    "kind": "trainer",
+    "id": 7
+  },
+  {
+    "path": "assets/pokemon/126.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "kind": "pokemon",
+    "id": 126
+  },
+  {
+    "path": "assets/trainers/8.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/giovanni_classic.png",
+    "kind": "trainer",
+    "id": 8
+  },
+  {
+    "path": "assets/trainers/8_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/giovanni_classic_2.png",
+    "kind": "trainer",
+    "id": 8
+  },
+  {
+    "path": "assets/pokemon/112.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "kind": "pokemon",
+    "id": 112
+  },
+  {
+    "path": "assets/trainers/9.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lorelei.png",
+    "kind": "trainer",
+    "id": 9
+  },
+  {
+    "path": "assets/trainers/9_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lorelei_2.png",
+    "kind": "trainer",
+    "id": 9
+  },
+  {
+    "path": "assets/pokemon/131.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "kind": "pokemon",
+    "id": 131
+  },
+  {
+    "path": "assets/trainers/10.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/bruno.png",
+    "kind": "trainer",
+    "id": 10
+  },
+  {
+    "path": "assets/trainers/10_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/bruno_2.png",
+    "kind": "trainer",
+    "id": 10
+  },
+  {
+    "path": "assets/pokemon/68.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "kind": "pokemon",
+    "id": 68
+  },
+  {
+    "path": "assets/trainers/11.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/agatha.png",
+    "kind": "trainer",
+    "id": 11
+  },
+  {
+    "path": "assets/trainers/11_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/agatha_2.png",
+    "kind": "trainer",
+    "id": 11
+  },
+  {
+    "path": "assets/pokemon/94.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "kind": "pokemon",
+    "id": 94
+  },
+  {
+    "path": "assets/trainers/12.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lance.png",
+    "kind": "trainer",
+    "id": 12
+  },
+  {
+    "path": "assets/trainers/12_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/lance_2.png",
+    "kind": "trainer",
+    "id": 12
+  },
+  {
+    "path": "assets/pokemon/149.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "kind": "pokemon",
+    "id": 149
+  },
+  {
+    "path": "assets/trainers/13.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/blue_classic.png",
+    "kind": "trainer",
+    "id": 13
+  },
+  {
+    "path": "assets/trainers/13_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/blue_classic_2.png",
+    "kind": "trainer",
+    "id": 13
+  },
+  {
+    "path": "assets/pokemon/9.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "kind": "pokemon",
+    "id": 9
+  },
+  {
+    "path": "assets/trainers/14.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/oak.png",
+    "kind": "trainer",
+    "id": 14
+  },
+  {
+    "path": "assets/trainers/14_2.png",
+    "url": "https://raw.githubusercontent.com/jonbarrow/trainercards.studio/master/public/images/trainers/masters/oak_2.png",
+    "kind": "trainer",
+    "id": 14
+  },
+  {
+    "path": "assets/pokemon/128.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "kind": "pokemon",
+    "id": 128
+  }
+]

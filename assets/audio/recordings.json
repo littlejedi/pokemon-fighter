@@ -1,0 +1,9 @@
+{
+  "format": "Original Game Boy game recordings, MP3",
+  "source": "https://downloads.khinsider.com/game-soundtracks/album/pokemon-red-green-blue-yellow",
+  "tracks": {
+    "trainer-battle-original.mp3": {"title": "Battle! (Trainer Battle)", "duration": 110.04},
+    "trainer-victory-original.mp3": {"title": "Victory! (Trainer Battle)", "duration": 37.032}
+  },
+  "playback": "Original recordings decoded and played directly. Previous note synthesis is no longer used for music."
+}

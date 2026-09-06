@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {poseAt,CLIPS} from '../src/ash-rig.js';
+import {atlasFrame} from '../src/atlas-animation.js';
+const manifest=JSON.parse(readFileSync('assets/meta/atlases.json'));
+test('three rigs have transparent PNG atlases with distinct clip frames and fixed roots',()=>{for(const id of [0,14,8]){const a=manifest.trainers[id],png=readFileSync('.'+a.path);assert.equal(png[25],6);assert.equal(Object.keys(a.animations).length,9);const w=png.readUInt32BE(16),h=png.readUInt32BE(20);for(const f of a.frames){assert.ok(f.crop[0]+f.crop[2]<=w);assert.ok(f.crop[1]+f.crop[3]<=h);assert.equal(f.rootX,160);assert.equal(f.baseline,305)}for(const name of ['punch','kick']){const clip=a.animations[name];assert.ok(clip.frames.length>=12);assert.equal(new Set(clip.frames).size,clip.frames.length);assert.equal(atlasFrame(a,name,CLIPS[name].contact),clip.frames[clip.times.indexOf(CLIPS[name].contact)])}}});
+test('bones keep their lengths and planted feet remain fixed through punch and kick',()=>{for(const clip of ['punch','kick'])for(let t=0;t<CLIPS[clip].duration;t+=.005){const p=poseAt(clip,t);for(const [name,chain]of Object.entries(p.bones)){const lengths=name.includes('Arm')?[54,48]:[67,65];for(let i=0;i<2;i++)assert.ok(Math.abs(Math.hypot(chain[i+1][0]-chain[i][0],chain[i+1][1]-chain[i][1])-lengths[i])<.001)}assert.deepEqual(p.farFoot,[-38,-12]);if(clip==='punch')assert.deepEqual(p.nearFoot,[38,-12])}});
+test('punch and kick extend and recover actual endpoints',()=>{const guard=poseAt('idle',0),p=poseAt('punch',.18),k=poseAt('kick',.3);assert.ok(p.bones.nearArm[2][0]>guard.bones.nearArm[2][0]+65);assert.ok(k.bones.nearLeg[2][1]<guard.bones.nearLeg[2][1]-100);assert.deepEqual(poseAt('punch',.48).bones,guard.bones);assert.deepEqual(poseAt('kick',.7).bones,guard.bones)});
